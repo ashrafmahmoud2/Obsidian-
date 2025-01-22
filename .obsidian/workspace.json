@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f74ea004852f79d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc09a61d88053a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6769fc74f6902d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1759db12e81d35e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9f560eaf44cd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c28c4b276b9763",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80d5450d9911ed47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "335debefda96d559",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "eb413f3da81e9472",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78f9e4d4dc3f136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f147497f9663aec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1353bdf47bb1e001",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "188bee1e7ff7f686",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94ca190afebd56c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "16b5263246c2877b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e6c28c4b276b9763",
+  "lastOpenFiles": [
+    "Obsidian-/README.md",
+    "Obsidian-",
+    "README.md.txt",
+    "README.md",
+    "مستند نصي جديد.txt",
+    "AutoPushObsidian.ps1",
+    "coding/front end/Css.md",
+    "coding/image/transform.png",
+    "coding/image/css-scroll.webp",
+    "coding/image/overflow-visible.webp",
+    "coding/image/css-overflow-auto.webp",
+    "coding/image/css-overflow-hidden.webp",
+    "coding/front end/genrel front end.md",
+    "coding/front end/js.md",
+    "coding/image/css-grid-poster.png",
+    "coding/Back end/git & GitHub.md",
+    "coding/Back end/docker.md",
+    "coding/Back end/E-Learning.md",
+    "coding/Back end/Dev creed api coures.md",
+    "coding/Back end/Data structure.md",
+    "coding/Back end/cv.md",
+    "coding/Back end/Coures 20 - C sharp Programming.md",
+    "coding/Back end/Computer Sciences.md",
+    "coding/Back end/c  shhain.md",
+    "coding/image/css-flexbox-poster 1.png",
+    "coding/image/css-flexbox-poster.png",
+    "coding/image/FgYfF87aEAASpIa.jpg",
+    "coding/image/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_h0y0cf2fj9m16wpv7y2n.jpg",
+    "coding/Back end/Unit Testing.md",
+    "coding/Back end/SOLID Principles.md",
+    "coding/Back end/mentor.md",
+    "personel/المشاريع.md",
+    "personel/خطه المنصه البرمجية.md",
+    "personel/خارطة الطريق.md",
+    "coding/Back end/Preper to interview.md",
+    "coding/Back end/mvc.md",
+    "coding/Back end/project steps.md",
+    "العلوم الشرعية/صفه صلاه النبي صل اللة عليه وسلم.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "coding/Back end/SQL.md",
+    "coding/Back end/leet Code.md",
+    "WhatsAppTemplates.cs",
+    "SubscriptionStatus.cs",
+    "SubscriberStatus.cs",
+    "RegexPatterns.cs",
+    "Errors.cs",
+    "EmailTemplates.cs",
+    "بدون عنوان.canvas",
+    "coding/بدون عنوان.canvas"
+  ]
+}
